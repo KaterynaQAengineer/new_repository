@@ -1,1 +1,1 @@
-# new_ripository
+# new_repository
